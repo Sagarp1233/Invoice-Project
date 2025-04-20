@@ -8,7 +8,7 @@ import InvoiceTemplates from './pages/InvoiceTemplates';
 import Index from './pages/Index';
 import Clients from './pages/clients';
 import Reports from './pages/Reports';
-import Pricing from './pages/pricing';
+import Pricing from './pages/Pricing';
 import TestDialog from "@/pages/TestDialog";
 import { Session } from '@supabase/supabase-js';
 import SessionHandler from "@/components/SessionHandler";
